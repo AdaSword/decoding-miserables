@@ -4,5 +4,5 @@ Tous les membres du groupe Espadon ont passé cette épreuve test. C'est à ton 
 Télécharge le fichier miserables.txt
 
 Nous te fournissons 2 éléments indispensables pour décoder :
-* 2 3 4 5 6 7 8 8 9 10 11 12 12 2 13 4 14 13 4 13 15 13 10 9 16 17 18 19 15 8 13 2 7 20 15 21 4
+* 2 3 3 4 5 6 7 7 8 9 10 11 9 10 9 12 9 5 4 13 14 15 16 12 3 9 8 2 17 12 18 10
 * Mathématicien italien
