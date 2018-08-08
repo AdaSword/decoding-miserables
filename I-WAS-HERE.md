@@ -1,5 +1,4 @@
 - AdaSword
-- AdaSworda
 - plopez
 - ndechandon
 
