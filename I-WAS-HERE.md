@@ -2,3 +2,5 @@
 - plopez
 - ndechandon
 - jpinsolle
+- cheubes
+- Thibaud C. -> Yeah !
