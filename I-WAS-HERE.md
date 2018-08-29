@@ -1,6 +1,7 @@
 - AdaSword
 - plopez
 - ndechandon
+- jpthiery
 - jpinsolle
 - cheubes
 - Thibaud C. -> Yeah !
