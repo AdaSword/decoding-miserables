@@ -9,4 +9,5 @@
 - tsimonnet
 - sguedon
 - pyaillet
+- rdelaplace
 - Christian S.
