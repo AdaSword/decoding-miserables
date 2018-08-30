@@ -9,3 +9,4 @@
 - tsimonnet
 - sguedon
 - pyaillet
+- rdelaplace
