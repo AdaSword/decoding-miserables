@@ -6,3 +6,4 @@
 - cheubes
 - Thibaud C. -> Yeah !
 - ocloirec
+- tsimonnet
