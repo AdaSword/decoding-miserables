@@ -7,3 +7,4 @@
 - Thibaud C. -> Yeah !
 - ocloirec
 - tsimonnet
+- sguedon
