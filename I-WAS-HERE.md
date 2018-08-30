@@ -8,3 +8,4 @@
 - ocloirec
 - tsimonnet
 - sguedon
+- pyaillet
