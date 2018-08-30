@@ -10,3 +10,4 @@
 - sguedon
 - pyaillet
 - rdelaplace
+- Christian S.
