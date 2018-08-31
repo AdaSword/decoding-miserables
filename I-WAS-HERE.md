@@ -13,3 +13,4 @@
 - Christian S.
 - Marvin L.(@shewa66)
 - ibeauvais
+- mhausherr
