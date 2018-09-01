@@ -20,3 +20,4 @@
 - Youyou (ymedaghri)
 - BrayVincent 👍
 - julien-diener
+- scauglog RSA
