@@ -19,3 +19,4 @@
 - gocho1
 - Youyou (ymedaghri)
 - BrayVincent 👍
+- julien-diener
