@@ -20,3 +20,4 @@
 - Youyou (ymedaghri)
 - BrayVincent 👍
 - julien-diener
+- itsmyr4bbit (@4ureli1)
