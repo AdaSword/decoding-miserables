@@ -21,3 +21,4 @@
 - BrayVincent 👍
 - julien-diener
 - scauglog RSA
+- itsmyr4bbit (@4ureli1)
