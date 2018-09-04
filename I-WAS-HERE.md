@@ -25,3 +25,4 @@
 - bnpinel
 - joe-mojo
 - ramzus ¯\_(ツ)_/¯
+- cheliou
