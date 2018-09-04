@@ -29,4 +29,6 @@
 - tchampion
 - cheliou
 - reivaak
+- ykerampran
+- sgougeaon
 - lcarrese
