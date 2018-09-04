@@ -26,3 +26,4 @@
 - joe-mojo
 - ramzus ¯\_(ツ)_/¯
 - tchampion
+- cheliou
