@@ -24,3 +24,4 @@
 - itsmyr4bbit (@4ureli1)
 - bnpinel
 - joe-mojo
+- ramzus ¯\_(ツ)_/¯
