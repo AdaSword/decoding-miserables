@@ -11,3 +11,4 @@
 - pyaillet
 - rdelaplace
 - Christian S.
+- tchampion
