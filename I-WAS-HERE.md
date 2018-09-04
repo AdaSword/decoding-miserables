@@ -11,4 +11,18 @@
 - pyaillet
 - rdelaplace
 - Christian S.
+- Marvin L.(@shewa66)
+- ibeauvais
+- mhausherr
+- imerj
+- dimapod
+- gocho1
+- Youyou (ymedaghri)
+- BrayVincent 👍
+- julien-diener
+- scauglog RSA
+- itsmyr4bbit (@4ureli1)
+- bnpinel
+- joe-mojo
+- ramzus ¯\_(ツ)_/¯
 - tchampion
