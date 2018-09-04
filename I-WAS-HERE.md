@@ -26,3 +26,5 @@
 - joe-mojo
 - ramzus ¯\_(ツ)_/¯
 - PeignoirRose <3
+- tchampion
+- cheliou
