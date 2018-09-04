@@ -32,3 +32,4 @@
 - ykerampran
 - sgougeaon
 - lcarrese
+- cpoissonnier
