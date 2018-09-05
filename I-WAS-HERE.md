@@ -33,3 +33,4 @@
 - sgougeaon
 - lcarrese
 - superhoang
+- hgregoire
