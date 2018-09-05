@@ -1,4 +1,4 @@
-- AdaSword
+﻿- AdaSword
 - plopez
 - ndechandon
 - jpthiery
@@ -33,3 +33,5 @@
 - sgougeaon
 - lcarrese
 - cpoissonnier
+- superhoang
+- hgregoire
