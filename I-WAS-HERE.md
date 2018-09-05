@@ -32,5 +32,6 @@
 - ykerampran
 - sgougeaon
 - lcarrese
+- cpoissonnier
 - superhoang
 - hgregoire
