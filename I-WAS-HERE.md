@@ -35,3 +35,4 @@
 - cpoissonnier
 - superhoang
 - hgregoire
+- Sharcoux
