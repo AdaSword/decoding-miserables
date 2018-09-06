@@ -1,4 +1,4 @@
-﻿- AdaSword
+- AdaSword
 - plopez
 - ndechandon
 - jpthiery
@@ -38,4 +38,5 @@
 - Sharcoux
 - miiitch
 - @imKwX
+- Tom Tom
 - xseillier
