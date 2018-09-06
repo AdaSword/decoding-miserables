@@ -38,4 +38,5 @@
 - Sharcoux
 - miiitch
 - @imKwX
-Tom Tom
+- Tom Tom
+- xseillier
