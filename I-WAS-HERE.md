@@ -36,4 +36,5 @@
 - superhoang
 - hgregoire
 - Sharcoux
+- miiitch
 - @imKwX
