@@ -38,3 +38,4 @@
 - Sharcoux
 - miiitch
 - @imKwX
+- xseillier
