@@ -40,3 +40,4 @@
 - @imKwX
 - Tom Tom
 - xseillier
+- bwalser
