@@ -42,6 +42,7 @@
 - xseillier
 - QuantumSheep ( ͡° ͜ʖ ͡°)
 - bwalser
+- doublequote
 - slequeux
 - vbenji
 -thibroc
