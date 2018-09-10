@@ -43,3 +43,7 @@
 - QuantumSheep ( ͡° ͜ʖ ͡°)
 - bwalser
 - doublequote
+- slequeux
+- vbenji
+-thibroc
+- Arno500
