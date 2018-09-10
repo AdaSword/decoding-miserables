@@ -43,3 +43,6 @@
 - QuantumSheep ( ͡° ͜ʖ ͡°)
 - bwalser
 - slequeux
+- vbenji
+-thibroc
+- Arno500
