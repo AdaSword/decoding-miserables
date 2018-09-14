@@ -1,4 +1,4 @@
-- AdaSword
+﻿- AdaSword
 - plopez
 - ndechandon
 - jpthiery
@@ -14,6 +14,7 @@
 - Marvin L.(@shewa66)
 - ibeauvais
 - mhausherr
+- grips cgiroux
 - imerj
 - dimapod
 - gocho1
@@ -47,5 +48,8 @@
 - vbenji
 -thibroc
 - Arno500
-- Taybou
 - Gronono
+-Vive Navision PJH
+- Taybou
+- mgrenonville
+- Vryho
