@@ -1,4 +1,4 @@
-- AdaSword
+﻿- AdaSword
 - plopez
 - ndechandon
 - jpthiery
@@ -48,6 +48,7 @@
 - vbenji
 -thibroc
 - Arno500
+-Vive Navision PJH
 - Taybou
 - mgrenonville
 - Vryho
