@@ -14,6 +14,7 @@
 - Marvin L.(@shewa66)
 - ibeauvais
 - mhausherr
+- grips cgiroux
 - imerj
 - dimapod
 - gocho1
@@ -49,3 +50,5 @@
 - Arno500
 -Vive Navision PJH
 - Taybou
+- mgrenonville
+- Vryho
