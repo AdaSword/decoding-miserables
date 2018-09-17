@@ -46,10 +46,10 @@
 - doublequote
 - slequeux
 - vbenji
--thibroc
+- thibroc
 - Arno500
 - Gronono
--Vive Navision PJH
+- Vive Navision PJH
 - Taybou
 - mgrenonville
 - Vryho
