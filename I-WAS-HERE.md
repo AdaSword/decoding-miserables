@@ -54,4 +54,5 @@
 - mgrenonville
 - Vryho
 - Patouche
+- arthurmauvezin
 - piko
