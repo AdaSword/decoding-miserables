@@ -55,3 +55,5 @@
 - Vryho
 - Patouche
 - IronSlug
+- arthurmauvezin
+- piko
