@@ -58,6 +58,7 @@
 - IronSlug
 - arthurmauvezin
 - piko
+- RamiR
 - MansaMoussa
 - Poulin-L
 - lfournial
