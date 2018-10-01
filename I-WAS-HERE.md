@@ -1,4 +1,5 @@
 ﻿- AdaSword
+ - jdefossez
 - plopez
 - ndechandon
 - jpthiery
