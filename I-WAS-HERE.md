@@ -58,6 +58,7 @@
 - IronSlug
 - arthurmauvezin
 - piko
+- bashou
 - fpeyron 
 - SifuckDeadguts
 - glivon
