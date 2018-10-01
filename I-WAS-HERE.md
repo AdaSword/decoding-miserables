@@ -58,3 +58,4 @@
 - IronSlug
 - arthurmauvezin
 - piko
+- lfournial
