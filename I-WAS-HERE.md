@@ -58,6 +58,7 @@
 - IronSlug
 - arthurmauvezin
 - piko
+- SifuckDeadguts
 - glivon
 - LucileM
 - edillenseger
