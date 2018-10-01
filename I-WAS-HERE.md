@@ -58,6 +58,7 @@
 - IronSlug
 - arthurmauvezin
 - piko
+- glivon
 - LucileM
 - edillenseger
 - cyrilgerbier
