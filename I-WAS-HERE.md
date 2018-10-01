@@ -1,4 +1,5 @@
 ﻿- AdaSword
+ - jdefossez
 - plopez
 - ndechandon
 - jpthiery
@@ -58,3 +59,7 @@
 - arthurmauvezin
 - piko
 - cyrilgerbier
+- RamiR
+- MansaMoussa
+- Poulin-L
+- lfournial
