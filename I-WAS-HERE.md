@@ -1,4 +1,5 @@
-- AdaSword
+﻿- AdaSword
+ - jdefossez
 - plopez
 - ndechandon
 - jpthiery
@@ -14,6 +15,7 @@
 - Marvin L.(@shewa66)
 - ibeauvais
 - mhausherr
+- grips cgiroux
 - imerj
 - dimapod
 - gocho1
@@ -43,3 +45,29 @@
 - QuantumSheep ( ͡° ͜ʖ ͡°)
 - bwalser
 - flo5k5
+- doublequote
+- slequeux
+- vbenji
+- thibroc
+- Arno500
+- Gronono
+- Vive Navision PJH
+- Taybou
+- mgrenonville
+- Vryho
+- Patouche
+- IronSlug
+- arthurmauvezin
+- piko
+- hfongarnand
+- bashou
+- fpeyron 
+- SifuckDeadguts
+- glivon
+- LucileM
+- edillenseger
+- cyrilgerbier
+- RamiR
+- MansaMoussa
+- Poulin-L
+- lfournial
